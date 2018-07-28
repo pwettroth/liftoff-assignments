@@ -1,17 +1,11 @@
-# Project Planning
-For this assignment, you'll create some initial plans for your project.
-
-## Assignment Description
-[Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
-
-## Submission Instructions
-
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-*[About](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/about-page.png)
-*[Google](https://google.com)
+* [Home](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/home-page.png)
+* [Products](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/products-page.png)
+* [About](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/about-page.png)
+* [Contact](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/contact-page.png)
+* [Admin](https://github.com/pwettroth/liftoff-assignments/blob/master/P3-Project_Planning/admin-page.png)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/1QeDqrhU/liftoff-project
