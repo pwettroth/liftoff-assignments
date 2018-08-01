@@ -9,3 +9,7 @@
 ### Project Tracker
 
 https://trello.com/b/1QeDqrhU/liftoff-project
+
+### Project Repo Link
+
+https://github.com/pwettroth/simply-cindy.git
